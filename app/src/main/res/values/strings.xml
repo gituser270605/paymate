@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pay</string>
+    <string name="get_started">Get Started</string>
+    <string name="pay_tracker">PayTracker</string>
+    <string name="tagline">Track every penny, live better.</string>
+    <string name="total_spent">Total Spent</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="budget_not_set">Budget not set</string>
+    <string name="spent_of_format">Spent %1$s of %2$s</string>
+    <string name="description_hint">Description</string>
+    <string name="amount_hint">Amount (₹)</string>
+    <string name="category_hint">Category</string>
+    <string name="save">Save</string>
+    <string name="add_payment">Add Payment</string>
+    <string name="payments">Payments</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="edit_payment">Edit Payment</string>
+    <string name="search_hint">Search transactions&#8230;</string>
+    <string name="no_transactions">No transactions found</string>
+    <string name="all_categories">All</string>
+</resources>
